@@ -1,0 +1,6 @@
+1、安装蓝叠模拟器（BlueStacksMicroInstaller.exe） 并将模拟器的返回快捷键改为CTRL + E
+2、确保文件目录为D:\cocscript\cocscript\cocscript.exe
+3、请使用管理员身份运行，否则无法进行文件交互
+4、若出现缺少.dll文件的情况请检查Opencv和Qt动态库文件是否完整
+5、若无法识别图片请检查图片库是否完整
+6、请勿随意对文件改名

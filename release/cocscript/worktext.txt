@@ -1,0 +1,6 @@
+2023-07-11 21:33:12	Exit the program
+2023-07-13 09:54:10	Exit the program
+2023-07-13 09:54:15	The script is started!
+2023-07-13 09:54:16	BlueStacks are not captured!
+2023-07-13 09:54:17	The script is closed!
+2023-07-13 10:01:19	Exit the program
